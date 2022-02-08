@@ -11,7 +11,8 @@ Creamos un canal y agregamos al bot como miembro. Por lo cual tu bot podra envia
 
 Para poder obtener la ID del canal solo tendemos que meternos a telegram desde el navegador y en la url del canal podremos ver el ID de dicho canal.
 
-![idcanal](https://user-images.githubusercontent.com/74573174/153091401-ebce838a-b96f-4231-a3f9-ba0784a57cfe.png)
+![image (1)](https://user-images.githubusercontent.com/74573174/153095872-c2d7db19-897e-4627-80fa-dd179832aa6d.png)
+
 
 # Script para enviar mensajes
 Creamos un archivo llamado **msg-telegram.sh** (o el nombre que mas te guste).
