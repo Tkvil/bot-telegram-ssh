@@ -20,7 +20,7 @@ Creamos un archivo llamado **msg-telegram.sh** (o el nombre que mas te guste).
 
 Luego agregue el siguiente script a este archivo con el id del canal y el token del bot correspondientes.
 
-![Captura de pantalla de 2022-02-09 00-20-29](https://user-images.githubusercontent.com/74573174/153092381-5cc92d42-3285-4ad5-9228-da2e9b63c719.png)
+![Captura de pantalla de 2022-02-09 00-53-12](https://user-images.githubusercontent.com/74573174/153095600-01cedb59-90ed-4106-92d0-f2ba1846eeb7.png)
 
 Para ejecutar este script debemos agregarle permisos.
 
